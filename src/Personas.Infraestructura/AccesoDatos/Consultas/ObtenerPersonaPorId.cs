@@ -22,6 +22,7 @@ namespace Personas.Infraestructura.AccesoDatos.Consultas
         {
             //TODO: parametrizar query
             var result = connection.QueryFirstOrDefault<Persona>($"select * from personas where id = @Id ", new { Id = _id });
+
             return result;
         }
     }
