@@ -10,3 +10,15 @@ C:\Users\GAUSS-01\Desktop\plantilla arq - mservice\ms-personas\src\Personas.Infr
 C:\Users\GAUSS-01\Desktop\plantilla arq - mservice\ms-personas\src\Personas.Infraestructura\obj\Debug\netcoreapp3.1\Personas.Infraestructura.csproj.CopyComplete
 C:\Users\GAUSS-01\Desktop\plantilla arq - mservice\ms-personas\src\Personas.Infraestructura\obj\Debug\netcoreapp3.1\Personas.Infraestructura.dll
 C:\Users\GAUSS-01\Desktop\plantilla arq - mservice\ms-personas\src\Personas.Infraestructura\obj\Debug\netcoreapp3.1\Personas.Infraestructura.pdb
+C:\Users\GAUSS01\Desktop\ms-personas\src\Personas.Infraestructura\bin\Debug\netcoreapp3.1\Personas.Infraestructura.deps.json
+C:\Users\GAUSS01\Desktop\ms-personas\src\Personas.Infraestructura\bin\Debug\netcoreapp3.1\Personas.Infraestructura.dll
+C:\Users\GAUSS01\Desktop\ms-personas\src\Personas.Infraestructura\bin\Debug\netcoreapp3.1\Personas.Infraestructura.pdb
+C:\Users\GAUSS01\Desktop\ms-personas\src\Personas.Infraestructura\bin\Debug\netcoreapp3.1\Personas.Dominio.dll
+C:\Users\GAUSS01\Desktop\ms-personas\src\Personas.Infraestructura\bin\Debug\netcoreapp3.1\Personas.Dominio.pdb
+C:\Users\GAUSS01\Desktop\ms-personas\src\Personas.Infraestructura\obj\Debug\netcoreapp3.1\Personas.Infraestructura.csprojAssemblyReference.cache
+C:\Users\GAUSS01\Desktop\ms-personas\src\Personas.Infraestructura\obj\Debug\netcoreapp3.1\Personas.Infraestructura.AssemblyInfoInputs.cache
+C:\Users\GAUSS01\Desktop\ms-personas\src\Personas.Infraestructura\obj\Debug\netcoreapp3.1\Personas.Infraestructura.AssemblyInfo.cs
+C:\Users\GAUSS01\Desktop\ms-personas\src\Personas.Infraestructura\obj\Debug\netcoreapp3.1\Personas.Infraestructura.csproj.CoreCompileInputs.cache
+C:\Users\GAUSS01\Desktop\ms-personas\src\Personas.Infraestructura\obj\Debug\netcoreapp3.1\Personas.Infraestructura.csproj.CopyComplete
+C:\Users\GAUSS01\Desktop\ms-personas\src\Personas.Infraestructura\obj\Debug\netcoreapp3.1\Personas.Infraestructura.dll
+C:\Users\GAUSS01\Desktop\ms-personas\src\Personas.Infraestructura\obj\Debug\netcoreapp3.1\Personas.Infraestructura.pdb

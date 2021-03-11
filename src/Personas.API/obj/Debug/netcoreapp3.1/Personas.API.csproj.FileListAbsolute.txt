@@ -40,3 +40,45 @@ C:\Users\GAUSS-01\Desktop\plantilla arq - mservice\ms-personas\src\Personas.API\
 C:\Users\GAUSS-01\Desktop\plantilla arq - mservice\ms-personas\src\Personas.API\obj\Debug\netcoreapp3.1\Personas.API.csproj.CoreCompileInputs.cache
 C:\Users\GAUSS-01\Desktop\plantilla arq - mservice\ms-personas\src\Personas.API\obj\Debug\netcoreapp3.1\Personas.API.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\GAUSS-01\Desktop\plantilla arq - mservice\ms-personas\src\Personas.API\obj\Debug\netcoreapp3.1\Personas.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\GAUSS01\Desktop\ms-personas\src\Personas.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\GAUSS01\Desktop\ms-personas\src\Personas.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\GAUSS01\Desktop\ms-personas\src\Personas.API\bin\Debug\netcoreapp3.1\Personas.API.exe
+C:\Users\GAUSS01\Desktop\ms-personas\src\Personas.API\bin\Debug\netcoreapp3.1\Personas.API.deps.json
+C:\Users\GAUSS01\Desktop\ms-personas\src\Personas.API\bin\Debug\netcoreapp3.1\Personas.API.runtimeconfig.json
+C:\Users\GAUSS01\Desktop\ms-personas\src\Personas.API\bin\Debug\netcoreapp3.1\Personas.API.runtimeconfig.dev.json
+C:\Users\GAUSS01\Desktop\ms-personas\src\Personas.API\bin\Debug\netcoreapp3.1\Personas.API.dll
+C:\Users\GAUSS01\Desktop\ms-personas\src\Personas.API\bin\Debug\netcoreapp3.1\Personas.API.pdb
+C:\Users\GAUSS01\Desktop\ms-personas\src\Personas.API\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\GAUSS01\Desktop\ms-personas\src\Personas.API\bin\Debug\netcoreapp3.1\MediatR.dll
+C:\Users\GAUSS01\Desktop\ms-personas\src\Personas.API\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\GAUSS01\Desktop\ms-personas\src\Personas.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\GAUSS01\Desktop\ms-personas\src\Personas.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\GAUSS01\Desktop\ms-personas\src\Personas.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\GAUSS01\Desktop\ms-personas\src\Personas.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\GAUSS01\Desktop\ms-personas\src\Personas.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\GAUSS01\Desktop\ms-personas\src\Personas.API\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\GAUSS01\Desktop\ms-personas\src\Personas.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\GAUSS01\Desktop\ms-personas\src\Personas.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\GAUSS01\Desktop\ms-personas\src\Personas.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\GAUSS01\Desktop\ms-personas\src\Personas.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\GAUSS01\Desktop\ms-personas\src\Personas.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\GAUSS01\Desktop\ms-personas\src\Personas.API\bin\Debug\netcoreapp3.1\Personas.Dominio.dll
+C:\Users\GAUSS01\Desktop\ms-personas\src\Personas.API\bin\Debug\netcoreapp3.1\Personas.Infraestructura.dll
+C:\Users\GAUSS01\Desktop\ms-personas\src\Personas.API\bin\Debug\netcoreapp3.1\Personas.Negocio.dll
+C:\Users\GAUSS01\Desktop\ms-personas\src\Personas.API\bin\Debug\netcoreapp3.1\Personas.Negocio.pdb
+C:\Users\GAUSS01\Desktop\ms-personas\src\Personas.API\bin\Debug\netcoreapp3.1\Personas.Dominio.pdb
+C:\Users\GAUSS01\Desktop\ms-personas\src\Personas.API\bin\Debug\netcoreapp3.1\Personas.Infraestructura.pdb
+C:\Users\GAUSS01\Desktop\ms-personas\src\Personas.API\obj\Debug\netcoreapp3.1\Personas.API.csprojAssemblyReference.cache
+C:\Users\GAUSS01\Desktop\ms-personas\src\Personas.API\obj\Debug\netcoreapp3.1\Personas.API.AssemblyInfoInputs.cache
+C:\Users\GAUSS01\Desktop\ms-personas\src\Personas.API\obj\Debug\netcoreapp3.1\Personas.API.AssemblyInfo.cs
+C:\Users\GAUSS01\Desktop\ms-personas\src\Personas.API\obj\Debug\netcoreapp3.1\Personas.API.csproj.CoreCompileInputs.cache
+C:\Users\GAUSS01\Desktop\ms-personas\src\Personas.API\obj\Debug\netcoreapp3.1\Personas.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\GAUSS01\Desktop\ms-personas\src\Personas.API\obj\Debug\netcoreapp3.1\Personas.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\GAUSS01\Desktop\ms-personas\src\Personas.API\obj\Debug\netcoreapp3.1\staticwebassets\Personas.API.StaticWebAssets.Manifest.cache
+C:\Users\GAUSS01\Desktop\ms-personas\src\Personas.API\obj\Debug\netcoreapp3.1\staticwebassets\Personas.API.StaticWebAssets.xml
+C:\Users\GAUSS01\Desktop\ms-personas\src\Personas.API\obj\Debug\netcoreapp3.1\scopedcss\bundle\Personas.API.styles.css
+C:\Users\GAUSS01\Desktop\ms-personas\src\Personas.API\obj\Debug\netcoreapp3.1\Personas.API.RazorTargetAssemblyInfo.cache
+C:\Users\GAUSS01\Desktop\ms-personas\src\Personas.API\obj\Debug\netcoreapp3.1\Personas.API.csproj.CopyComplete
+C:\Users\GAUSS01\Desktop\ms-personas\src\Personas.API\obj\Debug\netcoreapp3.1\Personas.API.dll
+C:\Users\GAUSS01\Desktop\ms-personas\src\Personas.API\obj\Debug\netcoreapp3.1\Personas.API.pdb
+C:\Users\GAUSS01\Desktop\ms-personas\src\Personas.API\obj\Debug\netcoreapp3.1\Personas.API.genruntimeconfig.cache

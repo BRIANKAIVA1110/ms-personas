@@ -9,7 +9,7 @@ namespace Personas.Infraestructura.Extensiones
 {
     public static class InfraestructuraConfiguracion
     {
-        private const string connectionString = @"Server = DESKTOP-8LA7C7R\SQLEXPRESS; Database = PruebaRestful; Integrated Security = True; ";//TODO: traer por config
+        private const string connectionString = @"Server = DESKTOP-J4947VK\SQLEXPRESS; Database = PruebaRestful; Integrated Security = True; ";//TODO: traer por config
         
         public static IServiceCollection AddInfraestructuraConfiguracion(this IServiceCollection services) 
         {

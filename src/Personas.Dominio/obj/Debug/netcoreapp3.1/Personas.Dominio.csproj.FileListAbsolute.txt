@@ -6,3 +6,12 @@ C:\Users\GAUSS-01\Desktop\plantilla arq - mservice\ms-personas\src\Personas.Domi
 C:\Users\GAUSS-01\Desktop\plantilla arq - mservice\ms-personas\src\Personas.Dominio\obj\Debug\netcoreapp3.1\Personas.Dominio.csproj.CoreCompileInputs.cache
 C:\Users\GAUSS-01\Desktop\plantilla arq - mservice\ms-personas\src\Personas.Dominio\obj\Debug\netcoreapp3.1\Personas.Dominio.dll
 C:\Users\GAUSS-01\Desktop\plantilla arq - mservice\ms-personas\src\Personas.Dominio\obj\Debug\netcoreapp3.1\Personas.Dominio.pdb
+C:\Users\GAUSS01\Desktop\ms-personas\src\Personas.Dominio\bin\Debug\netcoreapp3.1\Personas.Dominio.deps.json
+C:\Users\GAUSS01\Desktop\ms-personas\src\Personas.Dominio\bin\Debug\netcoreapp3.1\Personas.Dominio.dll
+C:\Users\GAUSS01\Desktop\ms-personas\src\Personas.Dominio\bin\Debug\netcoreapp3.1\Personas.Dominio.pdb
+C:\Users\GAUSS01\Desktop\ms-personas\src\Personas.Dominio\obj\Debug\netcoreapp3.1\Personas.Dominio.csprojAssemblyReference.cache
+C:\Users\GAUSS01\Desktop\ms-personas\src\Personas.Dominio\obj\Debug\netcoreapp3.1\Personas.Dominio.AssemblyInfoInputs.cache
+C:\Users\GAUSS01\Desktop\ms-personas\src\Personas.Dominio\obj\Debug\netcoreapp3.1\Personas.Dominio.AssemblyInfo.cs
+C:\Users\GAUSS01\Desktop\ms-personas\src\Personas.Dominio\obj\Debug\netcoreapp3.1\Personas.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\GAUSS01\Desktop\ms-personas\src\Personas.Dominio\obj\Debug\netcoreapp3.1\Personas.Dominio.dll
+C:\Users\GAUSS01\Desktop\ms-personas\src\Personas.Dominio\obj\Debug\netcoreapp3.1\Personas.Dominio.pdb

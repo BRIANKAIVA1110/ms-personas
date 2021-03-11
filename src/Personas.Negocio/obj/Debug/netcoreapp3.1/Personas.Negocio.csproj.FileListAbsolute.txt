@@ -26,3 +26,17 @@ C:\Users\GAUSS-01\Desktop\plantilla arq - mservice\ms-personas\src\Personas.Nego
 C:\Users\GAUSS-01\Desktop\plantilla arq - mservice\ms-personas\src\Personas.Negocio\bin\Debug\netcoreapp3.1\Personas.Infraestructura.pdb
 C:\Users\GAUSS-01\Desktop\plantilla arq - mservice\ms-personas\src\Personas.Negocio\bin\Debug\netcoreapp3.1\Personas.Dominio.pdb
 C:\Users\GAUSS-01\Desktop\plantilla arq - mservice\ms-personas\src\Personas.Negocio\obj\Debug\netcoreapp3.1\Personas.Negocio.csproj.CopyComplete
+C:\Users\GAUSS01\Desktop\ms-personas\src\Personas.Negocio\bin\Debug\netcoreapp3.1\Personas.Negocio.deps.json
+C:\Users\GAUSS01\Desktop\ms-personas\src\Personas.Negocio\bin\Debug\netcoreapp3.1\Personas.Negocio.dll
+C:\Users\GAUSS01\Desktop\ms-personas\src\Personas.Negocio\bin\Debug\netcoreapp3.1\Personas.Negocio.pdb
+C:\Users\GAUSS01\Desktop\ms-personas\src\Personas.Negocio\bin\Debug\netcoreapp3.1\Personas.Dominio.dll
+C:\Users\GAUSS01\Desktop\ms-personas\src\Personas.Negocio\bin\Debug\netcoreapp3.1\Personas.Infraestructura.dll
+C:\Users\GAUSS01\Desktop\ms-personas\src\Personas.Negocio\bin\Debug\netcoreapp3.1\Personas.Infraestructura.pdb
+C:\Users\GAUSS01\Desktop\ms-personas\src\Personas.Negocio\bin\Debug\netcoreapp3.1\Personas.Dominio.pdb
+C:\Users\GAUSS01\Desktop\ms-personas\src\Personas.Negocio\obj\Debug\netcoreapp3.1\Personas.Negocio.csprojAssemblyReference.cache
+C:\Users\GAUSS01\Desktop\ms-personas\src\Personas.Negocio\obj\Debug\netcoreapp3.1\Personas.Negocio.AssemblyInfoInputs.cache
+C:\Users\GAUSS01\Desktop\ms-personas\src\Personas.Negocio\obj\Debug\netcoreapp3.1\Personas.Negocio.AssemblyInfo.cs
+C:\Users\GAUSS01\Desktop\ms-personas\src\Personas.Negocio\obj\Debug\netcoreapp3.1\Personas.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\GAUSS01\Desktop\ms-personas\src\Personas.Negocio\obj\Debug\netcoreapp3.1\Personas.Negocio.csproj.CopyComplete
+C:\Users\GAUSS01\Desktop\ms-personas\src\Personas.Negocio\obj\Debug\netcoreapp3.1\Personas.Negocio.dll
+C:\Users\GAUSS01\Desktop\ms-personas\src\Personas.Negocio\obj\Debug\netcoreapp3.1\Personas.Negocio.pdb
