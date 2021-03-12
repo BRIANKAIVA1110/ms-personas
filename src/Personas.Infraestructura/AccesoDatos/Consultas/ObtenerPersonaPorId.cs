@@ -20,8 +20,9 @@ namespace Personas.Infraestructura.AccesoDatos.Consultas
 
         public Persona Execute(IDbConnection connection)
         {
+            var sql = "select * from personas where id = @Id";
             //TODO: parametrizar query
-            var result = connection.QueryFirstOrDefault<Persona>($"select * from personas where id = @Id ", new { Id = _id });
+            var result = connection.QueryFirstOrDefault<Persona>(sql, new { Id = _id });
 
             return result;
         }
