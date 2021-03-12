@@ -50,7 +50,7 @@ namespace Personas.API.Controllers
         public async Task<IActionResult> GetAsync([FromRoute] int Id)
         {
 
-            var result = await _mediator.Send(new ObternerPersonaPorIdQuery(Id));
+            var result = await _mediator.Send(new ObternerPersonaPorIdQuery { Id = Id });
 
             return Ok(result);
         }

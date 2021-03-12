@@ -17,8 +17,8 @@ namespace Personas.Negocio.Mediador.PersonaOperaciones.Comandos
     {
         public InsertarPersonaCommandValidator()
         {
-            RuleFor(x => x.Nombre).NotNull().NotEmpty().WithMessage("El campo Nombre es requerido");
-            RuleFor(x => x.Apellido).NotNull().WithMessage("El campo Apellido es requerido");
+            RuleFor(x => x.Nombre).NotNull().NotEmpty().NotEqual("").WithMessage("El campo Nombre es requerido");
+            RuleFor(x => x.Apellido).NotNull().NotEqual("").WithMessage("El campo Apellido es requerido");
         }
     }
 }
