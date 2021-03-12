@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Personas.Negocio.DTOs;
+using Personas.Negocio.Mediador.PersonaOperaciones.Comandos;
 using Personas.Negocio.Mediador.PersonaOperaciones.Consultas;
 using System;
 using System.Collections.Generic;
@@ -19,9 +20,9 @@ namespace Personas.API.Controllers
 
         public PersonasController(IMediator mediator)
         {
-            this._mediator = mediator;
+            this._mediator = mediator ?? throw new ArgumentNullException(nameof(mediator));
         }
-        
+
         /// <summary>
         /// Obtiene registros de personas 
         /// </summary>
@@ -29,7 +30,7 @@ namespace Personas.API.Controllers
         [HttpGet]
         [Produces(MediaTypeNames.Application.Json)]
         [ProducesResponseType(StatusCodes.Status200OK, Type = typeof(IEnumerable<PersonaDTO>))]
-        public async Task<IActionResult> GetAsync() 
+        public async Task<IActionResult> GetAsync()
         {
             var result = await _mediator.Send(new ObtenerPersonasQuery());
 
@@ -46,11 +47,25 @@ namespace Personas.API.Controllers
         [ProducesResponseType(StatusCodes.Status200OK, Type = typeof(PersonaDTO))]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
         [ProducesResponseType(StatusCodes.Status404NotFound)]
-        public async Task<IActionResult> GetAsync([FromRoute] int Id) 
+        public async Task<IActionResult> GetAsync([FromRoute] int Id)
         {
+
             var result = await _mediator.Send(new ObternerPersonaPorIdQuery(Id));
-           
+
             return Ok(result);
+        }
+
+        [HttpPost]
+        [ProducesResponseType(StatusCodes.Status400BadRequest)]
+        public IActionResult PostAsync([FromBody] InsertarPersonaCommand command)
+        {
+            if (!ModelState.IsValid)
+            {
+                return BadRequest();
+            }
+            else {
+                return Ok();
+            }
         }
 
     }

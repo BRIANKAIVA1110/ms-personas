@@ -82,3 +82,6 @@ C:\Users\GAUSS01\Desktop\ms-personas\src\Personas.API\obj\Debug\netcoreapp3.1\Pe
 C:\Users\GAUSS01\Desktop\ms-personas\src\Personas.API\obj\Debug\netcoreapp3.1\Personas.API.dll
 C:\Users\GAUSS01\Desktop\ms-personas\src\Personas.API\obj\Debug\netcoreapp3.1\Personas.API.pdb
 C:\Users\GAUSS01\Desktop\ms-personas\src\Personas.API\obj\Debug\netcoreapp3.1\Personas.API.genruntimeconfig.cache
+C:\Users\GAUSS01\Desktop\ms-personas\src\Personas.API\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\GAUSS01\Desktop\ms-personas\src\Personas.API\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\Users\GAUSS01\Desktop\ms-personas\src\Personas.API\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll

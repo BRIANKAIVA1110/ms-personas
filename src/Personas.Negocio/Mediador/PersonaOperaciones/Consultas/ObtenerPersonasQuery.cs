@@ -8,6 +8,5 @@ namespace Personas.Negocio.Mediador.PersonaOperaciones.Consultas
 {
     public class ObtenerPersonasQuery: IRequest<IEnumerable<PersonaDTO>>
     {
-        public ObtenerPersonasQuery() { }
     }
 }
