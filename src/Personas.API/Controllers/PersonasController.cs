@@ -57,14 +57,17 @@ namespace Personas.API.Controllers
 
         [HttpPost]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
-        public IActionResult PostAsync([FromBody] InsertarPersonaCommand command)
+        [ProducesResponseType(StatusCodes.Status201Created)]
+        public async Task<IActionResult> PostAsync([FromBody] InsertarPersonaCommand command)
         {
             if (!ModelState.IsValid)
             {
                 return BadRequest();
             }
-            else {
-                return Ok();
+            else 
+            {
+                var result = await _mediator.Send(new InsertarPersonaCommand { Nombre = command.Nombre, Apellido = command.Apellido });
+                return Created(nameof(GetAsync), new { Id = 0});
             }
         }
 

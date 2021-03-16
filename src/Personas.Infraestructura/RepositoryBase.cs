@@ -27,6 +27,7 @@ namespace Personas.Infraestructura
 
             return result;
         }
+
         public int ExecuteCommand(ICommand command) 
         {
             var result = command.Execute(_connection);
