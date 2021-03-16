@@ -2,10 +2,12 @@
 using System.Collections.Generic;
 using System.Text;
 using FluentValidation;
+using MediatR;
+using Personas.Negocio.DTOs;
 
 namespace Personas.Negocio.Mediador.PersonaOperaciones.Comandos
 {
-    public class InsertarPersonaCommand
+    public class InsertarPersonaCommand : IRequest<PersonaDTO>
     {
         public string Nombre { get; set; }
         public string Apellido { get; set; }
