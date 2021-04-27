@@ -989,6 +989,7 @@
         "netcoreapp3.1"
       ],
       "sources": {
+        "C:\\MiRepoNuget": {},
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },

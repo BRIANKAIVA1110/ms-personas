@@ -32,6 +32,10 @@ namespace Personas.API.Controllers
         [ProducesResponseType(StatusCodes.Status200OK, Type = typeof(IEnumerable<PersonaDTO>))]
         public async Task<IActionResult> GetAsync()
         {
+            var ip = this.HttpContext.Connection.RemoteIpAddress;
+
+
+
             var result = await _mediator.Send(new ObtenerPersonasQuery());
 
             return Ok(result);
@@ -66,10 +70,20 @@ namespace Personas.API.Controllers
             }
             else 
             {
-                var result = await _mediator.Send(new InsertarPersonaCommand { Nombre = command.Nombre, Apellido = command.Apellido });
+                var result = await _mediator.Send(new InsertarPersonaCommand { 
+                    Nombre = command.Nombre, 
+                    Apellido = command.Apellido,
+                    Edad = command.Edad
+                });
                 return Created(nameof(GetAsync), new { Id = 0});
             }
         }
 
+
+        [HttpPost("ids")]
+        public async Task<IActionResult> GetIdsAsync([FromBody] int Ids)
+        {
+            return Ok();
+        }
     }
 }
